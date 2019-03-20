@@ -2,6 +2,8 @@
 
 Simple gui to send SMS via Twilio, using predefined contact list.
 
+![Twilio SMS GUI](https://github.com/rakshazi/twilio-sms-gui/blob/master/screenshot.png)
+
 ## Install
 
 ```bash

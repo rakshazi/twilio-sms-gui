@@ -1,2 +1,4 @@
 venv
 config.yml
+src/__pycache__
+__pycache__

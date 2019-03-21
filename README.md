@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 ## Config
 
-Create `config.yml` file and place it near `gui.py`:
+Create `config.yml` (_or '~/.config/twiliogui.yml' or '~/.twiliogui.yml'_) file and place it near `gui.py`:
 ```yml
 api:
   accountsid: YourAccountSID

@@ -1,4 +1,4 @@
-# Twilio SMS GUI with contacts
+# Twilio SMS GUI with contacts [![Donate](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/rakshazi/donate)
 
 Simple gui to send SMS via Twilio, using predefined contact list.
 
